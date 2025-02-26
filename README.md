@@ -4,10 +4,11 @@ A collection of PowerShell scripts designed to automate various tasks and improv
 
 ## 📜 Available Scripts
 
-- <a href="https://www.google.com/"><strong>Script 1 Title</strong></a>  
+- <a href="https://github.com/johnhirokawa/ms-powershell-scripts/blob/main/scripts/Exch_Add_Bulk_Emails_Dist.ps1"><strong>Exchange - Add Bulk Emails to Distribution List</strong></a>  
   *Description:*  
-  Script 1 Description
+  This PowerShell script allows you to add multiple email addresses to a specified distribution list in Exchange Online. It simplifies the process of managing distribution lists by automating the addition of new members.
 
+<!--
 - <a href="https://www.google.com/"><strong>Script 2 Title</strong></a>  
   *Description:*  
   Script 2 Description
@@ -15,7 +16,7 @@ A collection of PowerShell scripts designed to automate various tasks and improv
 - <a href="https://www.google.com/"><strong>Script 3 Title</strong></a>  
   *Description:*  
   Script 3 Description
-  
+  -->
 
 ## 🚀 How to Use
 
