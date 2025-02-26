@@ -1,4 +1,4 @@
-### Exchange - Add Bulk Emails to Distribution List ###
+### Exchange - Add Emails to Distribution List ###
 
 #Run Install-Module Command on first run for computer (Uncomment it out to run on 1st run)
 #Install-Module ExchangeOnlineManagement
