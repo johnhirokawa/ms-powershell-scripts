@@ -1,4 +1,4 @@
-# <img src="https://github.com/johnhirokawa/ms-powershell-scripts/blob/main/assets/PowerShell_Icon.png" alt="PowerShell" width="30" height="30"> MS PowerShell Scripts
+# <img src="https://github.com/johnhirokawa/ms-powershell-scripts/blob/main/assets/PowerShell%20Icon.png" alt="PowerShell" width="30" height="30"> MS PowerShell Scripts
 
 A collection of PowerShell scripts designed to automate various tasks and improve system management. These scripts streamline processes, enhance productivity, and simplify administration.
 
