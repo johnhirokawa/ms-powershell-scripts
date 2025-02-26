@@ -26,6 +26,7 @@ To use these scripts, follow these steps:
    ```sh
    git clone https://github.com/johnhirokawa/ms-powershell-scripts.git
    cd ms-powershell-scripts/scripts
+   ./script1.ps1
 
 ## 📌 Contributions & Feedback
 
